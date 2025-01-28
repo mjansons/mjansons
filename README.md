@@ -31,9 +31,10 @@ Result-oriented **Full-stach Software Developer** based in Riga, Latvia. I have 
 ---
 
 ### 📚 Education and Certifications
-- **Full-Stack Web Development** (Turing College, Vilnius, Lithuania, 2023–2025)
-- Bachelor's in Modern Languages, Business, and Economics (University of Latvia, 2012–2016)
-- ITIL Foundation Certificate in IT Service Management (2017)
+- Turing College - Web Development
+- ITIL Foundation Certificate in IT Service Management 
+- Bachelor's in Modern Languages, Business, and Economics (University of Latvia)
+
 
 ---
 
