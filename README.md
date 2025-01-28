@@ -42,7 +42,6 @@ Result-oriented **Full-stach Software Developer** based in Riga, Latvia. I have 
 ---
 
 ### 📊 GitHub Stats
-![Matīss Jansons's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjansons&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjansons&layout=compact&theme=radical)
 
 ---
