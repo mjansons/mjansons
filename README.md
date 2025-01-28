@@ -24,8 +24,9 @@ Result-oriented **Full-stach Software Developer** based in Riga, Latvia. I have 
 
 ### 💼 Professional Background
 - Experience in team leadership and service management across diverse cultural settings.
-- Built and managed customer support teams, fostering adaptability and efficiency.
 - Passionate about optimizing services with innovative solutions and feedback-driven improvements.
+- Built and managed support teams, fostering adaptability and efficiency.
+
 
 ---
 
