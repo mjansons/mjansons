@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Matīss Jansons
 
-Result-oriented **Full-stach Software Developer** based in Riga, Latvia. I have a strong foundation in technical problem-solving, business operations, and team leadership. My passion lies in building, testing, and deploying web applications while ensuring clean and maintainable code. I'm always committed to continuous learning and improvement!
+Result-oriented **Full-stack Software Developer** based in Riga, Latvia. I have a strong foundation in technical problem-solving, business operations, and team leadership. My passion lies in building, testing, and deploying web applications while ensuring clean and maintainable code. I'm always committed to continuous learning and improvement!
 
 ---
 
