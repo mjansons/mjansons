@@ -1,18 +1,19 @@
 # 👋 Hi there, I'm Matīss Jansons
 
-Result-oriented **Full-stack Software Developer** based in Riga, Latvia. I have a strong foundation in technical problem-solving, business operations, and team leadership. My passion lies in building, testing, and deploying web applications while ensuring clean and maintainable code. I'm always committed to continuous learning and improvement!
+Result-oriented **Full-stack/ Backend Software Developer** based in Riga, Latvia. I have a strong foundation in technical problem-solving, business operations, and team leadership. My passion lies in building, testing, and deploying web applications while ensuring clean and maintainable code. I'm always committed to continuous learning and improvement!
 
 ---
 
 ### 🌟 Skills and Technologies
-### 🌟 Skills and Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -35,7 +36,7 @@ Result-oriented **Full-stack Software Developer** based in Riga, Latvia. I have 
 ---
 
 ### 📚 Education and Certifications
-- Turing College - Web Development
+- Turing College - Full Stack Web Development
 - ITIL Foundation Certificate in IT Service Management 
 - Bachelor's in Modern Languages, Business, and Economics (University of Latvia)
 
@@ -45,11 +46,6 @@ Result-oriented **Full-stack Software Developer** based in Riga, Latvia. I have 
 ### 🔗 Let's Connect!
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mjansons)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiss-jansons-16423b233/)
----
-
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjansons&layout=compact&theme=radical)
-
 ---
 
 Thanks for stopping by! Feel free to explore my projects or reach out for collaborations. 🚀
